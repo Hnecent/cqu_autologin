@@ -2,4 +2,5 @@
 
 1. 使用重大的校园网地址作为例子，在data填入学号和密码即可使用。
 2. 其他学校需要修改源码重新编译。
-3. 代码搬运至https://blog.csdn.net/weixin_40694662/article/details/128226508，请前往原始网站查看原理和具体使用。
+3. 代码搬运至https://blog.csdn.net/weixin_40694662/article/details/128226508
+4. 请前往原始网站查看原理和具体使用。
